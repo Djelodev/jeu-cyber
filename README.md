@@ -11,8 +11,8 @@ Quiz de révision en français basé sur le support « Sécurité du système d�
 - Interface mobile et prise en charge d'un usage hors ligne après la première visite (service worker).
 
 ## Publication
-Le site est servi par GitHub Pages via le workflow `.github/workflows/deploy-pages.yml`.
-Après le premier déploiement réussi, l’adresse attendue est : https://djelodev.github.io/jeu-cyber/
+Le workflow `.github/workflows/deploy-pages.yml` est prêt à publier le site sur GitHub Pages. L’activation initiale de GitHub Pages doit être faite une seule fois dans Settings → Pages → Build and deployment → Source : GitHub Actions.
+Après l’activation et un déploiement réussi, l’adresse du jeu sera : https://djelodev.github.io/jeu-cyber/
 
 ## Sur iPhone
 1. Ouvrir l’adresse dans Safari.
